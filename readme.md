@@ -86,14 +86,6 @@ CGPA: 8.66
 
 ---
 
-### 🤝 Connect with Me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://harshil-dev.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agola-harshil/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harshil-agola)
-
----
-
 ### 💡 What I Bring to a Team
 
 - Building responsive and accessible user interfaces.
@@ -102,6 +94,14 @@ CGPA: 8.66
 - Designing and integrating REST and GraphQL APIs.
 - Improving SEO, web performance, and maintainability.
 - Collaborating with designers, developers, and clients throughout the development lifecycle.
+
+---
+
+### 🤝 Connect with Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://harshil-dev.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agola-harshil/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harshil-agola)
 
 ---
 
